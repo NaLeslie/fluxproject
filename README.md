@@ -43,7 +43,7 @@ Chronoamperograms:
 - pyqt5 v5.12
 
 # Built With
-[Pyinstaller] (https://www.pyinstaller.org/) Packaging of the .exe
+[Pyinstaller](https://www.pyinstaller.org/) Packaging of the .exe
 
 # License
 This project is licensed under the GPL-3.0 License -- see the LICENSE.MD file for details
